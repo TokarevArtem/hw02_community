@@ -1,5 +1,5 @@
 # Js
-yatube\static\js
+yatube/static/js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -148,3 +148,4 @@ dmypy.json
 
 .mypy_cache
 
+yatube/static/js
