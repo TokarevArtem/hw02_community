@@ -1,3 +1,6 @@
+# Js
+C:\Dev\hw02_community\yatube\static\js
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -145,5 +148,3 @@ dmypy.json
 
 .mypy_cache
 
-# Js
-yatube/static/js/
